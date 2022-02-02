@@ -1,0 +1,61 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="kW:..A%QURn$PvOI5#xX" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="^pQ~P9){f0^sETWW@,~A"><field name="LEDS">`
+        . . . . . 
+        # . . . . 
+        # . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="5s52Sa~Y]4YPl3P10Y4q"><field name="LEDS">`
+        . # . . . 
+        # # . . . 
+        # # . . . 
+        . # . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="#fkX({_gDkZf%+ah24!P"><field name="LEDS">`
+        . # . . . 
+        # # # . . 
+        # # # . . 
+        . # # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="@??8@D[q3*}K_({H/610"><field name="LEDS">`
+        . # . # . 
+        # # # # . 
+        # # # # . 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="h;,LD%{+l~ZNb~+,@#Vz"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="-hM;@H{_9nlORyt:~;xC"><field name="LEDS">`
+        . # . # . 
+        . # # # # 
+        . # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="4F7FyZ)Z8WdQh+`_s6bg"><field name="LEDS">`
+        . . . # . 
+        . . # # # 
+        . . # # # 
+        . . # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="AC)#F?6R_0I,@7@1Xo=o"><field name="LEDS">`
+        . . . # . 
+        . . . # # 
+        . . . # # 
+        . . . # . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="Y!=d{aoG[]W,B[k3oPvT"><field name="LEDS">`
+        . . . . . 
+        . . . . # 
+        . . . . # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="`J4H2AP:/K:ZNF6X/TfW"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="basic_show_icon" id="E$u?Nf=73]Il1uf,Z-v%" disabled="true" x="280" y="439"><field name="i">IconNames.Heart</field></block></xml>
